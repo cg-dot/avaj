@@ -5,6 +5,7 @@
 Yet Another Java Obfuscator.
 
 ### Usage
+
 ```java
     JavaObfuscator.obfuscateWithDefaultOption(Path);
 ```
